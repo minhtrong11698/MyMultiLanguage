@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Phap</string>
+    <string name="welcome">Bienvenue</string>
+    <string name="email">E-Mail</string>
+    <string name="password">Not de passe</string>
+    <string name="login">S\'indentifier</string>
+    <string name="singup">Vous n\'aver pas de compte? S\'inscrire</string>
+    <string name="changelang">Changer de Language</string>
+</resources>
